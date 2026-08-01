@@ -1,0 +1,27 @@
+# Sunday
+
+> Sunday is a personalized lawn and yard care subscription built from satellite imagery, soil data, and climate patterns for your exact lot. Fertilizer formulas are made without pesticides and without phosphorus; every plan includes Sunny AI and Yard Advisor expert support.
+
+## Products
+
+- [Custom Lawn Plans](https://www.getsunday.com/custom-lawn-plan): Annual subscription built around your yard's unique needs. Plans start at $80/season.
+- [Lawn Fertilizers](https://www.getsunday.com/shop/category/lawn-care/lawn-fertilizer): Pesticide-free, phosphorus-free formulas for every season.
+- [Weed Control](https://www.getsunday.com/shop/category/lawn-care/weed-killer): Iron-based and organic weed killers; pair with grass seed for best results.
+- [Grass Seed](https://www.getsunday.com/shop/category/lawn-care/grass-seed): Fescue, Bermuda, microclover, pet-tough, and shade blends.
+- [Pet Products](https://www.getsunday.com/shop/category/lawn-care/pet-products): Products designed with dogs in mind, including Pet Patch and Pet Lawn Seed.
+- [Pest Control](https://www.getsunday.com/shop/category/lawn-care/lawn-pest-control): Ticks, mosquitoes, ants, grubs — individual products or Custom Pest Plans.
+- [Custom Pest Plans](https://www.getsunday.com/custom-pest-plan): Subscription pest protection tiered by pest type and yard size.
+- [Garden Products](https://www.getsunday.com/shop/category/garden): Live plants, soil, fertilizers, tools, and bird feeders.
+
+## Resources
+
+- [Get Your Custom Plan](https://www.getsunday.com/custom-lawn-plan): Free personalized yard analysis — the best starting point.
+- [The Shed (articles & guides)](https://www.getsunday.com/shed): Lawn care, garden, pest control, and seasonal guidance.
+- [Help Center](https://www.getsunday.com/help-center): FAQs, account management, shipping, and product questions.
+- [Sunday Guarantee](https://www.getsunday.com/sunday-guarantee): Sunday's satisfaction guarantee.
+- [Seed Finder](https://www.getsunday.com/seed-finder): Tool to match the right grass seed to your yard.
+- [Local Lawn Care Guides](https://www.getsunday.com/local-guide): Regional guides for 1,700+ US cities.
+
+## Optional
+
+- [Full LLM reference](https://www.getsunday.com/llms-full.txt)

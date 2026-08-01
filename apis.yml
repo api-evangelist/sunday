@@ -1,7 +1,17 @@
 aid: sunday
 name: Sunday
-description: Sunday is a company surfaced as a portfolio company of bond-capital and added to the API
-  Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+description: >-
+  Sunday (Sunday Lawn Care, getsunday.com) is a direct-to-consumer, subscription
+  lawn and yard care brand. It builds a personalized annual plan for each
+  customer's exact lot from satellite imagery, soil data, and local climate
+  patterns, then ships pesticide-free, phosphorus-free fertilizer, weed control,
+  grass seed, and pest-control products on a seasonal cadence. Plans include
+  Sunny AI guidance and Yard Advisor expert support, plus regional lawn-care
+  guides for 1,700+ US cities. Sunday is a consumer commerce company rather than
+  an API provider: it publishes a machine-readable llms.txt for agents and runs
+  an internal application API (api.getsunday.com), but exposes no public
+  developer portal, OpenAPI, SDKs, or documented API surface. It was surfaced as
+  a portfolio company of Bond Capital and added to the API Evangelist network.
 url: https://raw.githubusercontent.com/api-evangelist/sunday/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -9,11 +19,30 @@ x-backed-by:
 - bond-capital
 x-tier: stub
 x-tier-reason: portfolio-lead
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-21'
+image: https://www.getsunday.com/images/square-logo-192.png
 tags:
 - Company
+- Lawn Care
+- Consumer
+- Subscription
+- E-Commerce
+- Direct to Consumer
+- Home & Garden
+- Agriculture
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -23,3 +52,18 @@ maintainers:
 common:
 - type: Website
   url: https://getsunday.com
+- type: Blog
+  url: https://www.getsunday.com/shed
+- type: Support
+  url: https://www.getsunday.com/help-center
+- type: Pricing
+  url: https://www.getsunday.com/custom-lawn-plan
+- type: LLMsTxt
+  url: llms/sunday-llms.txt
+- type: DomainSecurity
+  url: security/sunday-domain-security.yml
+x-enrichment:
+  date: '2026-07-21'
+  status: enriched
+  artifacts_added: 2
+  pass: local-v1
